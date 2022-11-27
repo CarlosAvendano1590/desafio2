@@ -1,0 +1,66 @@
+*{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.titulo{
+    font-size: 45px;
+    margin-left: 50px;
+}
+.cabecera{
+ background-color: azure;
+ width: 100%;
+ border: 1px solid black;
+ height: 235px;
+}
+#img1{
+    margin-left: 910px;
+    margin-top: -202px;
+}
+#img2{
+    
+    margin-top: 35px;
+    margin-left: 250px;
+}
+#img3{
+    
+    margin-top: 98px;
+    margin-left: 250px;
+}
+#img4{
+    
+    margin-top:151px;
+    margin-left: 250px;
+}
+.P1{
+    margin-left: 694px;
+    margin-top: -150px;
+}
+.precio1{
+    margin-left:798px;
+    font-size: xx-large;
+    color: green;
+}
+.P2{
+    margin-left: 696px;
+    margin-top: -247px;
+}
+.precio2{
+    margin-left: 795px;
+    font-size: xx-large;
+    color: green;
+}
+.P3{
+    margin-left: 693px;
+    margin-top: -221px;
+}
+.precio3{
+    margin-left: 802px;
+    font-size: xx-large;
+    color: green;
+}
+.pie{
+    margin-top: 165px;
+    background-color: rgb(137, 36, 232);
+    text-align: center;
+    height: 25px;
+    color:white;
+}
